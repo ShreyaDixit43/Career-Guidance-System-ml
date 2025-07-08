@@ -98,6 +98,3 @@ This project is open-source and available under the MIT License.
 ## 📬 Contact
 GitHub: https://github.com/ShreyaDixit43  
 Email: shreyadixit098@gmail.com
-
-Shreya Dixit  
-GitHub: https://github.com/ShreyaDixit43  
